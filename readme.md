@@ -1,3 +1,9 @@
-A simple API that returns selected albums from rock band Bethlehem's discography.
+# Bethlehem Discography API
 
-Built using Express.
+Simple API that returns selected part of rock band Bethlehem's discography.
+
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
+
+## How It's Made:
+
+**Tech used:** JavaScript, Express
