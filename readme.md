@@ -7,4 +7,4 @@ Created as part of 100devs class 39.
 
 ## How It's Made:
 
-**Tech used:** JavaScript, Express
+**Tech used:** JavaScript, Node, Express
